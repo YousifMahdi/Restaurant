@@ -45,12 +45,14 @@ nav {
 }
 
 .special {
-    margin-top: 24px;
+    margin-top: 8px;
 }
 
 .special__link {
     background-color: #B60000;
     color: #fff;
+    padding: 12px 32px;
+    font-size: 20px;
 }
 
 .logo__1 {
