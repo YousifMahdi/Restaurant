@@ -42,6 +42,12 @@ nav {
     margin: 0 24px;
     color: white;
     font-size: 14px;
+    transition: all white 300ms ease;
+}
+
+.nav__link:hover {
+    text-decoration: underline solid white;
+    padding-top: 4px;
 }
 
 .special {
@@ -49,10 +55,18 @@ nav {
 }
 
 .special__link {
+    border:#B60000;
     background-color: #B60000;
     color: #fff;
     padding: 12px 32px;
     font-size: 20px;
+    cursor: pointer;
+}
+
+.special__link:hover {
+    background-color: black;
+    text-decoration: underline solid white;
+    border: white;
 }
 
 .logo__1 {
