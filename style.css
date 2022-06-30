@@ -46,7 +46,7 @@ nav {
 }
 
 .nav__link:hover {
-    text-decoration: underline solid white;
+    text-decoration: underline solid white 3px;
     padding-top: 4px;
 }
 
