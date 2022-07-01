@@ -81,16 +81,17 @@ nav {
 }
 
 main {
-    background-image:url(images/food.gif) ;
+    background-image: url(images/food.gif);
     height: 75vh;
     width: 100%;
+    position: relative;
 }
 
 .showcase {
     border-radius: 0;
+    position: absolute;
+    margin-top: calc(75vh/2.5);
     background-color: black;
-    height: 58px;
-    width: 475px;
 }
 
 .showcase__header {
