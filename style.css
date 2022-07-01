@@ -80,8 +80,8 @@ nav {
     height: 64px;
 }
 
-main {
-    background-image: url(images/food.gif);
+#first-sec {
+    background-image: url(images/Safeimagekit-resized-imgjpg);
     height: 75vh;
     width: 100%;
     position: relative;
@@ -90,11 +90,34 @@ main {
 .showcase {
     border-radius: 0;
     position: absolute;
-    margin-top: calc(75vh/2.5);
+    margin-top: calc(75vh/3);
+    margin-left: 400px;
     background-color: black;
 }
 
 .showcase__header {
-    font-size: 48px;
+    font-size: 56px;
+    padding: 32px 16px;
     color: white;
+}
+
+#second-sec {
+    width: 100%;
+}
+
+.list__container {
+    height: 110px;
+    width: 1170px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.category__links {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 24px 16px;
+}
+
+.category {
+    margin-right: 16px;
 }
