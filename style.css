@@ -7,6 +7,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 ul {
     list-style: none;
 }
@@ -68,10 +72,28 @@ nav {
     background-color: black;
     text-decoration: underline solid white;
     text-underline-offset: 1px;
-    border: 3px solid white;
+    border: solid white;
 }
 
 .logo__1 {
     width: 320px;
     height: 64px;
+}
+
+main {
+    background-image:url(images/food.gif) ;
+    height: 75vh;
+    width: 100%;
+}
+
+.showcase {
+    border-radius: 0;
+    background-color: black;
+    height: 58px;
+    width: 475px;
+}
+
+.showcase__header {
+    font-size: 48px;
+    color: white;
 }
