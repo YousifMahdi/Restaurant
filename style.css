@@ -150,11 +150,13 @@ nav {
 .menu {
     padding-top: 36px;
     background-color: black;
+    height: 100vh;
 }
 
 .menu__container {
     display: flex;
     flex-direction: column;
+    background-color: black;
 }
 
 .appetizers {
@@ -167,17 +169,30 @@ nav {
 
 .app__menu {
     display: flex;
+    flex-direction: column;
     justify-content: start;
+}
+
+.top__four {
+    display: flex;
 }
 
 .other__dishes {
     margin-left: 48px;
+    margin-top: 32px;
+}
+
+.other__dish {
+    margin-top: 32px;
+}
+
+.lettuce__wraps {
+    margin-top: 32px;
 }
 
 .food__img {
     width: 260px;
     height: 160px;
-    margin-top: 24px;
 }
 
 .title {
