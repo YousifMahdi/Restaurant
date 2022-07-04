@@ -232,7 +232,19 @@ nav {
     padding-left: 130px;
 }
 
+.third {
+    padding-top: 12px;
+    color: #EBEBEB;
+    text-align: center;
+    font-size: 32px;
+    padding-left: 130px;
+}
+
 .food__desc {
     width: 260px;
     padding-left: 8px;
+}
+
+.the__rest {
+    margin-top: 48px;
 }
