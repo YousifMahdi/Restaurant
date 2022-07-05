@@ -211,7 +211,7 @@ nav {
 .price {
     padding-top: 8px;
     color: #fff;
-    display: inline-block;
+    display: block;
     font-size: 14px;
 }
 
@@ -259,6 +259,14 @@ nav {
     font-size: 32px;
     text-align: center;
     color: #EBEBEB;
+}
+
+.sixth {
+    padding-top: 2px;
+    color: #EBEBEB;
+    text-align: center;
+    font-size: 32px;
+    padding-left: 130px;
 }
 
 .food__desc {
