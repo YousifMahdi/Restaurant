@@ -240,6 +240,14 @@ nav {
     padding-left: 130px;
 }
 
+.fourth {
+    padding-top: 48px;
+    padding-left: 130px;
+    font-size: 32px;
+    text-align: center;
+    color: #EBEBEB;
+}
+
 .food__desc {
     width: 260px;
     padding-left: 8px;
