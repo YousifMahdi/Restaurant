@@ -119,7 +119,9 @@ nav {
     margin: 0 auto;
     background-color: #aa272f;
     transition: all 300ms ease;
+    position: -webkit-sticky;
     position: sticky;
+    top: 0;
 }
 
 .list__row {
