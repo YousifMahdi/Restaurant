@@ -166,7 +166,7 @@ nav {
 }
 
 .non-appetizer {
-    margin-top: 44px;
+    margin-top: 84px;
     margin-left: 360px;
 }
 
@@ -184,6 +184,10 @@ nav {
     display: flex;
 }
 
+.bottom__row {
+    display: flex;
+}
+
 .other__dishes {
     margin-left: 48px;
     margin-top: 32px;
@@ -191,6 +195,7 @@ nav {
 
 .other__dish {
     margin-top: 32px;
+    margin-right: 48px;
 }
 
 .lettuce__wraps {
