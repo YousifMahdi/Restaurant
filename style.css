@@ -180,11 +180,7 @@ nav {
     justify-content: start;
 }
 
-.top__four {
-    display: flex;
-}
-
-.bottom__row {
+.bottom__row, .last__row, .top__four {
     display: flex;
 }
 
@@ -270,6 +266,14 @@ nav {
 
 .sixth {
     padding-top: 2px;
+    color: #EBEBEB;
+    text-align: center;
+    font-size: 32px;
+    padding-left: 130px;
+}
+
+.seventh {
+    padding-top: 24px;
     color: #EBEBEB;
     text-align: center;
     font-size: 32px;
