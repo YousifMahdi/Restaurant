@@ -224,75 +224,62 @@ nav {
     font-size: 13px;
 }
 
+.fa-angle-down {
+    color: #EBEBEB;
+    font-size: 32px;
+}
+
 .first {
     padding-top: 40px;
     padding-left: 130px;
-    font-size: 32px;
     text-align: center;
-    color: #EBEBEB;
 }
 
 .second {
     padding-top: 16px;
-    color: #EBEBEB;
     text-align: center;
-    font-size: 32px;
     padding-left: 130px;
 }
 
 .third {
     padding-top: 12px;
-    color: #EBEBEB;
     text-align: center;
-    font-size: 32px;
     padding-left: 130px;
 }
 
 .fourth {
     padding-top: 56px;
     padding-left: 130px;
-    font-size: 32px;
     text-align: center;
-    color: #EBEBEB;
 }
 
 .fifth {
     padding-top: 26px;
     padding-left: 130px;
-    font-size: 32px;
     text-align: center;
-    color: #EBEBEB;
 }
 
 .sixth {
     padding-top: 2px;
-    color: #EBEBEB;
     text-align: center;
-    font-size: 32px;
     padding-left: 130px;
 }
 
 .seventh {
     padding-top: 25px;
-    color: #EBEBEB;
     text-align: center;
-    font-size: 32px;
     padding-left: 130px;
 }
 
 .eigth {
     padding-top: 61px;
-    color: #EBEBEB;
     text-align: center;
-    font-size: 32px;
     padding-left: 130px;
 }
 
 .ninth {
     padding-top: 97px;
-    color: #EBEBEB;
     text-align: center;
-    font-size: 32px;
     padding-left: 130px;
 }
 
@@ -311,4 +298,19 @@ nav {
     max-width: 650px;
     margin-left: 360px;
     margin-top: 84px;
+}
+
+.meat__origins {
+    display: flex;
+    justify-content: center;
+    margin-top: 84px;
+}
+
+.where {
+    color: #fff;
+    padding: 0 16px;
+}
+
+.where__arrow {
+    padding-top: 6px;
 }
