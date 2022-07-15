@@ -304,3 +304,11 @@ nav {
 .the__rest {
     margin-top: 48px;
 }
+
+.tea__info {
+    color: #fff;
+    font-size: 14px;
+    max-width: 650px;
+    margin-left: 360px;
+    margin-top: 84px;
+}
