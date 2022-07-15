@@ -26,6 +26,12 @@ nav {
     background-color: black;
 }
 
+.footer__links {
+    background-color: #aa272f;
+    width: 100%;
+    height: 130px;
+}
+
 .nav__container {
     display: flex;
     justify-content: space-between;
@@ -330,4 +336,5 @@ nav {
 .delivery__logo {
     width: 70px;
     height: 70px;
+    margin: 0 56px;
 }
