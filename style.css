@@ -149,7 +149,7 @@ nav {
     text-underline-offset: 5px;
 }
 
-.menu {
+#menu {
     padding-top: 36px;
     background-color: black;
     height: 100vh;
@@ -161,11 +161,28 @@ nav {
     background-color: black;
 }
 
-.appetizers {
+#appetizers {
     margin-left: 360px;
 }
 
-.non-appetizer {
+#dim-sum,
+#salad,
+#soup,
+#sushi,
+#seafood,
+#chicken,
+#beef,
+#noodles,
+#vegetarian,
+#desserts,
+#mocktails,
+#carafes,
+#juices,
+#soda,
+#iced__tea,
+#coffee,
+#tea,
+#water {
     margin-top: 84px;
     margin-left: 360px;
 }
@@ -355,7 +372,7 @@ nav {
     margin: 0 56px;
 }
 
-.footer {
+#footer {
     margin-top: 160px;
     display: flex;
     width: 100%;
