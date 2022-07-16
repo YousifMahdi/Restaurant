@@ -187,15 +187,21 @@ nav {
 .other__dishes {
     margin-left: 48px;
     margin-top: 32px;
+    width: 260px;
+    height: 330px;
 }
 
 .other__dish {
     margin-top: 32px;
     margin-right: 48px;
+    width: 260px;
+    height: 330px;
 }
 
 .lettuce__wraps {
     margin-top: 32px;
+    width: 260px;
+    height: 330px;
 }
 
 .food__img {
@@ -227,6 +233,22 @@ nav {
 .fa-angle-down {
     color: #EBEBEB;
     font-size: 32px;
+    transition: all 300ms ease;
+}
+
+.lettuce__wraps:hover .fa-angle-down {
+    color: #aa272f;
+    transform: translateY(20%);
+}
+
+.other__dishes:hover .fa-angle-down {
+    color: #aa272f;
+    transform: translateY(20%);
+}
+
+.other__dish:hover .fa-angle-down {
+    color: #aa272f;
+    transform: translateY(20%);
 }
 
 .first {
