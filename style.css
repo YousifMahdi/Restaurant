@@ -501,7 +501,12 @@ nav {
         width: 100px;
     }
 
-    #appetizers {
+    .app__heading {
+        position: relative;
+        right: 325px;
+    }
+
+    .app__menu {
         width: 768px;
         position: relative;
         right: 325px;
@@ -532,6 +537,6 @@ nav {
     }
 
     .other__dish {
-        margin-top: 400px;
+        margin-top: 275px;
     }
 }
