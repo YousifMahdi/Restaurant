@@ -547,6 +547,18 @@ nav {
         top: 310px;
     }
 
+    #soup {
+        top: 500px;
+    }
+
+    #sushi {
+        top: 700px;
+    }
+
+    #seafood {
+        top: 850px;
+    }
+
     .lettuce__wraps, .other__dishes, .other__dish {
         width: 130px;
         height: 100px;
