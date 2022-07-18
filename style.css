@@ -518,6 +518,35 @@ nav {
         flex-direction: row;
     }
 
+    #dim-sum,
+    #salad,
+    #soup,
+    #sushi,
+    #seafood,
+    #chicken,
+    #beef,
+    #noodles,
+    #vegetarian,
+    #desserts,
+    #mocktails,
+    #carafes,
+    #juices,
+    #soda,
+    #iced__tea,
+    #coffee,
+    #tea,
+    #water {
+        position: relative;
+    }
+
+    #dim-sum {
+        top: 120px;
+    }
+
+    #salad {
+        top: 310px;
+    }
+
     .lettuce__wraps, .other__dishes, .other__dish {
         width: 130px;
         height: 100px;
