@@ -437,6 +437,7 @@ nav {
 @media (max-width: 768px) {
     body {
         overflow-x: hidden;
+        background-color: black;
     }
     
     .logo__1 {
@@ -472,6 +473,10 @@ nav {
     #first-sec {
         background-image: url(images/tablet.png);
         position: relative;
+    }
+
+    #second-sec {
+        height: 100vh;
     }
 
     .showcase {
@@ -613,6 +618,26 @@ nav {
 
     #water {
         top: 3300px;
+    }
+
+    .tea__rule {
+        position: relative;
+        top: 5000px;
+    }
+
+    .test {
+        position: relative;
+        top: 6000px;
+    }
+
+    .delivery__companies {
+        position: relative;
+        top: 7000px;
+    }
+
+    #footer {
+        position: relative;
+        top: 8000px;
     }
 
     .lettuce__wraps, .other__dishes, .other__dish {
