@@ -475,10 +475,6 @@ nav {
         position: relative;
     }
 
-    #second-sec {
-        height: 100vh;
-    }
-
     .showcase {
         position: absolute;
         right: 400px;
@@ -629,17 +625,21 @@ nav {
 
     .test {
         position: relative;
-        top: 6000px;
+        top: 3600px;
     }
 
     .delivery__companies {
         position: relative;
-        top: 7000px;
+        top: 3700px;
+    }
+
+    .deli__logos {
+        display: flex;
     }
 
     #footer {
         position: relative;
-        top: 8000px;
+        top: 3900px;
     }
 
     .lettuce__wraps, .other__dishes, .other__dish {
