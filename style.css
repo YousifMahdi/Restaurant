@@ -638,8 +638,28 @@ nav {
     }
 
     #footer {
+        background-color: #aa272f;
         position: relative;
         top: 3900px;
+        width: 1200px;
+    }
+
+    .footer__stuff {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer__links {
+        display: flex;
+        height: 130px;
+        padding-top: 56px;
+        padding-left: 100px;
+    }
+
+    .social__media {
+        display: flex;
+        padding-top: 56px;
+        margin-left: 60px;
     }
 
     .lettuce__wraps, .other__dishes, .other__dish {
