@@ -622,7 +622,9 @@ nav {
 
     .tea__rule {
         position: relative;
-        top: 5000px;
+        top: 3500px;
+        right: 300px;
+        width: 850px;
     }
 
     .test {
