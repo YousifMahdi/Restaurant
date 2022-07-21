@@ -552,15 +552,67 @@ nav {
     }
 
     #soup {
-        top: 500px;
+        top: 600px;
     }
 
     #sushi {
-        top: 700px;
+        top: 850px;
     }
 
     #seafood {
-        top: 850px;
+        top: 1100px;
+    }
+
+    #chicken {
+        top: 1000px;
+    }
+
+    #beef {
+        top: 1250px;
+    }
+
+    #noodles {
+        top: 1350px;
+    }
+
+    #vegetarian {
+        top: 1600px;
+    }
+
+    #desserts {
+        top: 1700px;
+    }
+
+    #mocktails {
+        top: 1800px;
+    }
+
+    #carafes {
+        top: 2100px;
+    }
+
+    #juices {
+        top: 2300px;
+    }
+
+    #soda {
+        top: 2500px;
+    }
+
+    #iced__tea {
+        top: 2700px;
+    }
+
+    #coffee {
+        top: 2900px;
+    }
+    
+    #tea {
+        top: 3100px;
+    }
+
+    #water {
+        top: 3300px;
     }
 
     .lettuce__wraps, .other__dishes, .other__dish {
