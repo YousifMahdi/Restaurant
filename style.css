@@ -561,76 +561,76 @@ nav {
     }
 
     #seafood {
-        top: 1100px;
+        top: 1070px;
     }
 
     #chicken {
-        top: 1000px;
+        top: 1300px;
     }
 
     #beef {
-        top: 1250px;
+        top: 1520px;
     }
 
     #noodles {
-        top: 1350px;
+        top: 1720px;
     }
 
     #vegetarian {
-        top: 1600px;
+        top: 2050px;
     }
 
     #desserts {
-        top: 1700px;
-    }
-
-    #mocktails {
-        top: 1800px;
-    }
-
-    #carafes {
-        top: 2100px;
-    }
-
-    #juices {
         top: 2300px;
     }
 
+    #mocktails {
+        top: 2550px;
+    }
+
+    #carafes {
+        top: 2750px;
+    }
+
+    #juices {
+        top: 2990px;
+    }
+
     #soda {
-        top: 2500px;
+        top: 3150px;
     }
 
     #iced__tea {
-        top: 2700px;
+        top: 3270px;
     }
 
     #coffee {
-        top: 2900px;
+        top: 3400px;
     }
     
     #tea {
-        top: 3100px;
+        top: 3600px;
     }
 
     #water {
-        top: 3300px;
+        top: 3700px;
     }
 
     .tea__rule {
         position: relative;
-        top: 3500px;
+        top: 3900px;
         right: 300px;
         width: 850px;
     }
 
     .test {
         position: relative;
-        top: 3600px;
+        top: 3950px;
     }
 
     .delivery__companies {
         position: relative;
-        top: 3700px;
+        top: 4000px;
     }
 
     .deli__logos {
