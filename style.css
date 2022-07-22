@@ -523,6 +523,22 @@ nav {
         flex-direction: row;
     }
 
+    .new__first {
+        padding-top: 60px;
+    }
+
+    .new__first--special {
+        padding-top: 70px;
+    }
+
+    .new__fourth {
+        padding-top: 100px;
+    }
+
+    .new__fifth {
+        padding-top: 45px;
+    }
+
     #dim-sum,
     #salad,
     #soup,
