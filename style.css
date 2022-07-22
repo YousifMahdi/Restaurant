@@ -523,6 +523,18 @@ nav {
         flex-direction: row;
     }
 
+    .pad-15 {
+        padding-top: 15px;
+    }
+
+    .pad-40 {
+        padding-top: 40px;
+    }
+
+    .pad-45 {
+        padding-top: 45px;
+    }
+
     .pad-60 {
         padding-top: 60px;
     }
@@ -537,14 +549,6 @@ nav {
 
     .pad-100 {
         padding-top: 100px;
-    }
-
-    .pad-45 {
-        padding-top: 45px;
-    }
-
-    .pad-15 {
-        padding-top: 15px;
     }
 
     #dim-sum,
